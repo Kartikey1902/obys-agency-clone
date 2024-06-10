@@ -668,3 +668,10 @@ function textAnimation() {
 
 textAnimation();
 
+function touch(){
+  document.addEventListener('touchmove', function(event) {
+    event.preventDefault(); // Avoid this unless necessary
+}, { passive: false });
+}
+
+touch();
