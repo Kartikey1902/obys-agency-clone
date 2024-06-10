@@ -223,7 +223,6 @@
         -webkit-box-pack: center;
             -ms-flex-pack: center;
                 justify-content: center;
-        /* background-color: red; */
         width: 12%;
         gap: 3.1vw;
         padding-left: 0.6vw;
@@ -240,7 +239,6 @@
             -ms-flex-pack: justify;
                 justify-content: space-between;
         width: 20%;
-        /* background-color: red; */
         padding: 0 0.6vw 0.3vw 0;
     }
     
@@ -258,7 +256,6 @@
         height: -webkit-fit-content;
         height: -moz-fit-content;
         height: fit-content;
-        /* background-color: red; */
     }
     
     .hero{
